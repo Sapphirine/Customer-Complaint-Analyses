@@ -1,0 +1,67 @@
+Testing of classifier on training set
+
+=======================================================
+Summary
+-------------------------------------------------------
+Correctly Classified Instances          :      10160	   95.1667%
+Incorrectly Classified Instances        :        516	    4.8333%
+Total Classified Instances              :      10676
+
+=======================================================
+Confusion Matrix
+-------------------------------------------------------
+a    	b    	c    	d    	e    	f    	g    	h    	i    	<--Classified as
+958  	0    	0    	0    	0    	0    	0    	0    	0    	 |  958   	a     = Bank account or service
+0    	255  	0    	0    	0    	0    	0    	0    	70   	 |  325   	b     = Consumer loan
+0    	0    	2733 	171  	0    	0    	270  	0    	0    	 |  3174  	c     = Credit card
+0    	0    	0    	2682 	0    	0    	0    	0    	0    	 |  2682  	d     = Credit reporting
+0    	0    	0    	0    	1853 	0    	0    	0    	0    	 |  1853  	e     = Debt collection
+0    	0    	0    	0    	0    	136  	0    	0    	0    	 |  136   	f     = Money transfers
+0    	0    	0    	0    	0    	0    	612  	0    	0    	 |  612   	g     = Mortgage
+0    	0    	0    	0    	0    	0    	0    	43   	5    	 |  48    	h     = Payday loan
+0    	0    	0    	0    	0    	0    	0    	0    	888  	 |  888   	i     = Student loan
+
+=======================================================
+Statistics
+-------------------------------------------------------
+Kappa                                       0.9386
+Accuracy                                   95.1667%
+Reliability                                85.4151%
+Reliability (standard deviation)            0.3098
+Weighted precision                          0.9609
+Weighted recall                             0.9517
+Weighted F1 score                           0.9524
+
+Testing of classifier on testing set
+
+=======================================================
+Summary
+-------------------------------------------------------
+Correctly Classified Instances          :       1414	    90.525%
+Incorrectly Classified Instances        :        148	     9.475%
+Total Classified Instances              :       1562
+
+=======================================================
+Confusion Matrix
+-------------------------------------------------------
+a    	b    	c    	d    	e    	f    	g    	h    	i    	<--Classified as
+640  	0    	0    	0    	0    	0    	0    	0    	0    	 |  640   	a     = Bank account or service
+0    	185  	0    	0    	0    	0    	0    	0    	44   	 |  229   	b     = Consumer loan
+0    	0    	589  	67   	0    	0    	37   	0    	0    	 |  693   	c     = Credit card
+0    	0    	0    	0    	0    	0    	0    	0    	0    	 |  0     	d     = Credit reporting
+0    	0    	0    	0    	0    	0    	0    	0    	0    	 |  0     	e     = Debt collection
+0    	0    	0    	0    	0    	0    	0    	0    	0    	 |  0     	f     = Money transfers
+0    	0    	0    	0    	0    	0    	0    	0    	0    	 |  0     	g     = Mortgage
+0    	0    	0    	0    	0    	0    	0    	0    	0    	 |  0     	h     = Payday loan
+0    	0    	0    	0    	0    	0    	0    	0    	0    	 |  0     	i     = Student loan
+
+=======================================================
+Statistics
+-------------------------------------------------------
+Kappa                                       0.8489
+Accuracy                                    90.525%
+Reliability                                26.5779%
+Reliability (standard deviation)            0.4306
+Weighted precision                               1
+Weighted recall                             0.9052
+Weighted F1 score                           0.9484

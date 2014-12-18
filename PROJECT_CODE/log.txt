@@ -1,0 +1,312 @@
+{Issue=3, State=5, Product=1, Complaint ID=0}
+ColumnReducer::main() Reduced 312912 files to required number of columns 
+StatewiseSorter::sortState() No match exists for state :FL
+Make new file
+FL
+StatewiseSorter::sortState() No match exists for state :TX
+Make new file
+TX
+StatewiseSorter::sortState() No match exists for state :NY
+Make new file
+NY
+StatewiseSorter::sortState() No match exists for state :CA
+Make new file
+CA
+StatewiseSorter::sortState() No match exists for state :MI
+Make new file
+MI
+StatewiseSorter::sortState() No match exists for state :MS
+Make new file
+MS
+StatewiseSorter::sortState() No match exists for state :NJ
+Make new file
+NJ
+StatewiseSorter::sortState() No match exists for state :WA
+Make new file
+WA
+StatewiseSorter::sortState() No match exists for state :CT
+Make new file
+CT
+StatewiseSorter::sortState() No match exists for state :SC
+Make new file
+SC
+StatewiseSorter::sortState() No match exists for state :NC
+Make new file
+NC
+StatewiseSorter::sortState() No match exists for state :MD
+Make new file
+MD
+StatewiseSorter::sortState() No match exists for state :NM
+Make new file
+NM
+StatewiseSorter::sortState() No match exists for state :VA
+Make new file
+VA
+StatewiseSorter::sortState() No match exists for state :PA
+Make new file
+PA
+StatewiseSorter::sortState() No match exists for state :AL
+Make new file
+AL
+StatewiseSorter::sortState() No match exists for state :OH
+Make new file
+OH
+StatewiseSorter::sortState() No match exists for state :OK
+Make new file
+OK
+StatewiseSorter::sortState() No match exists for state :ID
+Make new file
+ID
+StatewiseSorter::sortState() No match exists for state :WI
+Make new file
+WI
+StatewiseSorter::sortState() No match exists for state :AZ
+Make new file
+AZ
+StatewiseSorter::sortState() No match exists for state :OR
+Make new file
+OR
+StatewiseSorter::sortState() No match exists for state :TN
+Make new file
+TN
+StatewiseSorter::sortState() No match exists for state :IL
+Make new file
+IL
+StatewiseSorter::sortState() No match exists for state :AK
+Make new file
+AK
+StatewiseSorter::sortState() No match exists for state :MO
+Make new file
+MO
+StatewiseSorter::sortState() No match exists for state :MN
+Make new file
+MN
+StatewiseSorter::sortState() No match exists for state :NV
+Make new file
+NV
+StatewiseSorter::sortState() No match exists for state :DE
+Make new file
+DE
+StatewiseSorter::sortState() No match exists for state :MA
+Make new file
+MA
+StatewiseSorter::sortState() No match exists for state :IN
+Make new file
+IN
+StatewiseSorter::sortState() No match exists for state :GA
+Make new file
+GA
+StatewiseSorter::sortState() No match exists for state :LA
+Make new file
+LA
+StatewiseSorter::sortState() No match exists for state :MT
+Make new file
+MT
+StatewiseSorter::sortState() No match exists for state :DC
+Make new file
+DC
+StatewiseSorter::sortState() No match exists for state :WV
+Make new file
+WV
+StatewiseSorter::sortState() No match exists for state :KS
+Make new file
+KS
+StatewiseSorter::sortState() No match exists for state :CO
+Make new file
+CO
+StatewiseSorter::sortState() No match exists for state :KY
+Make new file
+KY
+StatewiseSorter::sortState() No match exists for state :UT
+Make new file
+UT
+StatewiseSorter::sortState() No match exists for state :IA
+Make new file
+IA
+StatewiseSorter::sortState() No match exists for state :NH
+Make new file
+NH
+StatewiseSorter::sortState() No match exists for state :NE
+Make new file
+NE
+StatewiseSorter::sortState() No match exists for state :PR
+Make new file
+PR
+StatewiseSorter::sortState() No match exists for state :RI
+Make new file
+RI
+StatewiseSorter::sortState() No match exists for state :ME
+Make new file
+ME
+StatewiseSorter::sortState() No match exists for state :VT
+Make new file
+VT
+StatewiseSorter::sortState() No match exists for state :VI
+Make new file
+VI
+StatewiseSorter::sortState() No match exists for state :SD
+Make new file
+SD
+StatewiseSorter::sortState() No match exists for state :AR
+Make new file
+AR
+StatewiseSorter::sortState() No match exists for state :WY
+Make new file
+WY
+StatewiseSorter::sortState() No match exists for state :HI
+Make new file
+HI
+StatewiseSorter::sortState() No match exists for state :AS
+Make new file
+AS
+StatewiseSorter::sortState() No match exists for state :AP
+Make new file
+AP
+StatewiseSorter::sortState() No match exists for state :ND
+Make new file
+ND
+StatewiseSorter::sortState() No match exists for state :MH
+Make new file
+MH
+StatewiseSorter::sortState() No match exists for state :AE
+Make new file
+AE
+StatewiseSorter::sortState() No match exists for state :GU
+Make new file
+GU
+StatewiseSorter::sortState() No match exists for state :MP
+Make new file
+MP
+StatewiseSorter::sortState() No match exists for state :AA
+Make new file
+AA
+StatewiseSorter::sortState() No match exists for state :FM
+Make new file
+FM
+StatewiseSorter::sortState() No match exists for state :PW
+Make new file
+PW
+StripColumn::deleteColumn(): Successfully written 1040 rows with DC.csv state
+StripColumn::deleteColumn(): Successfully written 784 rows with MS.csv state
+StripColumn::deleteColumn(): Successfully written 5443 rows with OH.csv state
+StripColumn::deleteColumn(): Successfully written 14823 rows with FL.csv state
+StripColumn::deleteColumn(): Successfully written 1999 rows with IN.csv state
+StripColumn::deleteColumn(): Successfully written 782 rows with AR.csv state
+StripColumn::deleteColumn(): Successfully written 1797 rows with MN.csv state
+StripColumn::deleteColumn(): Successfully written 973 rows with DE.csv state
+StripColumn::deleteColumn(): Successfully written 7 rows with AS.csv state
+StripColumn::deleteColumn(): Successfully written 497 rows with WV.csv state
+StripColumn::deleteColumn(): Successfully written 5 rows with AA.csv state
+StripColumn::deleteColumn(): Successfully written 573 rows with ID.csv state
+StripColumn::deleteColumn(): Successfully written 1883 rows with OR.csv state
+StripColumn::deleteColumn(): Successfully written 1639 rows with LA.csv state
+StripColumn::deleteColumn(): Successfully written 3544 rows with MA.csv state
+StripColumn::deleteColumn(): Successfully written 1191 rows with OK.csv state
+StripColumn::deleteColumn(): Successfully written 58 rows with AE.csv state
+StripColumn::deleteColumn(): Successfully written 1940 rows with WI.csv state
+StripColumn::deleteColumn(): Successfully written 10 rows with MH.csv state
+StripColumn::deleteColumn(): Successfully written 242 rows with AK.csv state
+StripColumn::deleteColumn(): Successfully written 5612 rows with VA.csv state
+StripColumn::deleteColumn(): Successfully written 287 rows with VT.csv state
+StripColumn::deleteColumn(): Successfully written 17 rows with GU.csv state
+StripColumn::deleteColumn(): Successfully written 4790 rows with MD.csv state
+StripColumn::deleteColumn(): Successfully written 21305 rows with CA.csv state
+StripColumn::deleteColumn(): Successfully written 34 rows with VI.csv state
+StripColumn::deleteColumn(): Successfully written 274 rows with SD.csv state
+StripColumn::deleteColumn(): Successfully written 5928 rows with IL.csv state
+StripColumn::deleteColumn(): Successfully written 1923 rows with NV.csv state
+StripColumn::deleteColumn(): Successfully written 885 rows with KS.csv state
+StripColumn::deleteColumn(): Successfully written 4306 rows with NC.csv state
+StripColumn::deleteColumn(): Successfully written 465 rows with PR.csv state
+StripColumn::deleteColumn(): Successfully written 2026 rows with SC.csv state
+StripColumn::deleteColumn(): Successfully written 845 rows with UT.csv state
+StripColumn::deleteColumn(): Successfully written 11 rows with MP.csv state
+StripColumn::deleteColumn(): Successfully written 2840 rows with CO.csv state
+StripColumn::deleteColumn(): Successfully written 47 rows with AP.csv state
+StripColumn::deleteColumn(): Successfully written 1690 rows with AL.csv state
+StripColumn::deleteColumn(): Successfully written 6336 rows with GA.csv state
+StripColumn::deleteColumn(): Successfully written 1253 rows with KY.csv state
+StripColumn::deleteColumn(): Successfully written 3 rows with PW.csv state
+StripColumn::deleteColumn(): Successfully written 215 rows with WY.csv state
+StripColumn::deleteColumn(): Successfully written 613 rows with HI.csv state
+StripColumn::deleteColumn(): Successfully written 2230 rows with MO.csv state
+StripColumn::deleteColumn(): Successfully written 6440 rows with NJ.csv state
+StripColumn::deleteColumn(): Successfully written 2039 rows with CT.csv state
+StripColumn::deleteColumn(): Successfully written 2477 rows with TN.csv state
+StripColumn::deleteColumn(): Successfully written 797 rows with IA.csv state
+StripColumn::deleteColumn(): Successfully written 12238 rows with NY.csv state
+StripColumn::deleteColumn(): Successfully written 717 rows with RI.csv state
+StripColumn::deleteColumn(): Successfully written 547 rows with NE.csv state
+StripColumn::deleteColumn(): Successfully written 3444 rows with AZ.csv state
+StripColumn::deleteColumn(): Successfully written 6441 rows with PA.csv state
+StripColumn::deleteColumn(): Successfully written 3950 rows with MI.csv state
+StripColumn::deleteColumn(): Successfully written 326 rows with MT.csv state
+StripColumn::deleteColumn(): Successfully written 162 rows with ND.csv state
+StripColumn::deleteColumn(): Successfully written 14090 rows with TX.csv state
+StripColumn::deleteColumn(): Successfully written 3150 rows with WA.csv state
+StripColumn::deleteColumn(): Successfully written 736 rows with NH.csv state
+StripColumn::deleteColumn(): Successfully written 5 rows with FM.csv state
+StripColumn::deleteColumn(): Successfully written 600 rows with ME.csv state
+StripColumn::deleteColumn(): Successfully written 943 rows with NM.csv state
+ComplaintsCSVtoSeq::main(): Wrote 600 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 5 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1923 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 274 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 547 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1040 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 6441 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1253 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 784 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1940 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 736 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 4790 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 5 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 845 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 326 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 782 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 5928 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 17 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 573 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 6440 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1999 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 215 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1639 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 7 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 12238 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 47 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 885 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1690 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 717 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 613 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 58 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 6336 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 34 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1191 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 3 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 2230 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 3950 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 2026 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1797 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 3544 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 943 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 1883 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 4306 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 14090 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 14823 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 287 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 5443 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 2840 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 162 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 2039 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 3444 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 5612 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 497 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 21305 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 2477 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 465 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 10 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 242 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 11 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 973 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 797 entries to Seq File.
+ComplaintsCSVtoSeq::main(): Wrote 3150 entries to Seq File.

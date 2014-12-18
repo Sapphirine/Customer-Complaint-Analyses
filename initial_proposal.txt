@@ -1,0 +1,41 @@
+EECS E6893 - Big Data Analytics Initial Proposal Given the dataset in our
+possession, the following insights can be derived from it.
+
+1. Analyzing the major customer concerns with banks in each state     We aim to
+gain an insight into the problems plaguing retail banking in each state in the
+US.     This can be derived from the available dataset and the aim is to use
+this as a building block     for subsequent objectives that we hope to achieve.
+Classifying the customer concerns based on the     state, will give let us know
+the major concerns in each state and we aim to find the top 3 concerns     of
+customers.
+
+2. Derive business impact of customer concerns to banking institutions
+Classifying the available data based on whether customers' concerns were
+addressed or not will     provide valuable insight into the effect of them on
+institutions' business. For example, a large     number of unresolved complaints
+can be taken to mean that the specific customers have taken their     business
+elsewhere.
+
+3. Propose likely solutions to future concerns     A mixture of resolved and
+unresolved concerns will provide sufficient ground to learn the likely solution
+for similar problems in the future. This will, hypothetically, improve the
+response time towards addressing     customer concerns in the future. In
+addition, should the actual solution differ from the computationally suggested
+one,     the feedback can be used to improve the suggestion generations for the
+future. The results of this can be clustered     depending on the location and a
+general trend about geographic distribution of banks' behavior can be obtained.
+At this     point it is unclear what this can be used for, but it can likely be
+used as constructive feedback for the banks and institutions     themselves.
+
+4. Develop a performance metric based on time taken to resolve concern
+Depending on the type of concern and the time taken to resolve it, we can come
+up with a standardized performance metric,     taking into account the various
+factors of the case and apply the metric across all future solutions. This will
+help pinpoint     those problems that take longer to resolve and therefore can
+be given a higher priority.
+
+The above objectives are based on the dataset obtained from the Consumer
+Financial Protection Bureau. We aim to package existing tools into a specific
+usable package, for similar datasets. Given that the libraries and tools that we
+propose to use are in general scalable, our prime focus is on the analysis and
+the result that we can potentially generate.

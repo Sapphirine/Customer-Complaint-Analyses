@@ -1,0 +1,1060 @@
+     Bank account or service718
+     Consumer loan105
+     Credit card553
+     Credit reporting1055
+     Debt collection627
+     Money transfers60
+     Mortgage1241
+     Payday loan60
+     Student loan106
+AA   Bank account or service4
+AA   Credit card1
+AA   Mortgage3
+AA   Student loan2
+AE   Bank account or service13
+AE   Consumer loan5
+AE   Credit card11
+AE   Credit reporting25
+AE   Debt collection13
+AE   Money transfers1
+AE   Mortgage40
+AE   Student loan6
+AK   Bank account or service50
+AK   Consumer loan10
+AK   Credit card68
+AK   Credit reporting69
+AK   Debt collection70
+AK   Money transfers4
+AK   Mortgage100
+AK   Student loan13
+AL   Bank account or service368
+AL   Consumer loan135
+AL   Credit card342
+AL   Credit reporting440
+AL   Debt collection570
+AL   Money transfers7
+AL   Mortgage882
+AL   Payday loan21
+AL   Student loan82
+AP   Bank account or service6
+AP   Consumer loan3
+AP   Credit card11
+AP   Credit reporting14
+AP   Debt collection18
+AP   Mortgage24
+AP   Student loan3
+AR   Bank account or service161
+AR   Consumer loan49
+AR   Credit card193
+AR   Credit reporting210
+AR   Debt collection227
+AR   Money transfers5
+AR   Mortgage387
+AR   Payday loan14
+AR   Student loan52
+AS   Bank account or service3
+AS   Credit card2
+AS   Credit reporting3
+AS   Mortgage2
+AZ   Bank account or service786
+AZ   Consumer loan218
+AZ   Credit card888
+AZ   Credit reporting811
+AZ   Debt collection1024
+AZ   Money transfers35
+AZ   Mortgage2997
+AZ   Payday loan29
+AZ   Student loan154
+CA   Bank account or service5099
+CA   Consumer loan1009
+CA   Credit card5574
+CA   Credit reporting5434
+CA   Debt collection5940
+CA   Money transfers233
+CA   Mortgage22716
+CA   Payday loan169
+CA   Student loan902
+CO   Bank account or service597
+CO   Consumer loan146
+CO   Credit card796
+CO   Credit reporting712
+CO   Debt collection747
+CO   Money transfers19
+CO   Mortgage2172
+CO   Payday loan29
+CO   Student loan163
+CT   Bank account or service559
+CT   Consumer loan136
+CT   Credit card646
+CT   Credit reporting390
+CT   Debt collection417
+CT   Money transfers17
+CT   Mortgage1559
+CT   Payday loan10
+CT   Student loan155
+DC   Bank account or service312
+DC   Consumer loan51
+DC   Credit card255
+DC   Credit reporting254
+DC   Debt collection226
+DC   Money transfers15
+DC   Mortgage559
+DC   Payday loan12
+DC   Student loan104
+DE   Bank account or service252
+DE   Consumer loan96
+DE   Credit card282
+DE   Credit reporting185
+DE   Debt collection228
+DE   Money transfers6
+DE   Mortgage615
+DE   Payday loan7
+DE   Student loan38
+FL   Bank account or service3528
+FL   Consumer loan763
+FL   Credit card3591
+FL   Credit reporting3565
+FL   Debt collection3914
+FL   Money transfers119
+FL   Mortgage14079
+FL   Payday loan79
+FL   Student loan526
+FM   Bank account or service2
+FM   Credit card2
+FM   Credit reporting3
+FM   Debt collection1
+FM   Mortgage9
+GA   Bank account or service1473
+GA   Consumer loan421
+GA   Credit card1251
+GA   Credit reporting1558
+GA   Debt collection1814
+GA   Money transfers57
+GA   Mortgage6579
+GA   Payday loan51
+GA   Student loan310
+GU   Bank account or service7
+GU   Consumer loan2
+GU   Credit card5
+GU   Credit reporting3
+GU   Debt collection6
+GU   Money transfers1
+GU   Mortgage10
+GU   Student loan1
+HI   Bank account or service91
+HI   Consumer loan32
+HI   Credit card166
+HI   Credit reporting155
+HI   Debt collection185
+HI   Money transfers5
+HI   Mortgage488
+HI   Payday loan2
+HI   Student loan22
+IA   Bank account or service132
+IA   Consumer loan45
+IA   Credit card236
+IA   Credit reporting166
+IA   Debt collection248
+IA   Money transfers5
+IA   Mortgage342
+IA   Payday loan12
+IA   Student loan69
+ID   Bank account or service104
+ID   Consumer loan27
+ID   Credit card156
+ID   Credit reporting127
+ID   Debt collection185
+ID   Money transfers6
+ID   Mortgage370
+ID   Payday loan12
+ID   Student loan33
+IL   Bank account or service1550
+IL   Consumer loan302
+IL   Credit card1501
+IL   Credit reporting1385
+IL   Debt collection1484
+IL   Money transfers62
+IL   Mortgage4027
+IL   Payday loan44
+IL   Student loan440
+IN   Bank account or service378
+IN   Consumer loan96
+IN   Credit card454
+IN   Credit reporting542
+IN   Debt collection603
+IN   Money transfers12
+IN   Mortgage1094
+IN   Payday loan24
+IN   Student loan176
+KS   Bank account or service146
+KS   Consumer loan60
+KS   Credit card247
+KS   Credit reporting198
+KS   Debt collection296
+KS   Money transfers7
+KS   Mortgage441
+KS   Payday loan9
+KS   Student loan54
+KY   Bank account or service261
+KY   Consumer loan90
+KY   Credit card276
+KY   Credit reporting318
+KY   Debt collection420
+KY   Money transfers4
+KY   Mortgage691
+KY   Payday loan11
+KY   Student loan82
+LA   Bank account or service305
+LA   Consumer loan109
+LA   Credit card293
+LA   Credit reporting497
+LA   Debt collection551
+LA   Money transfers15
+LA   Mortgage910
+LA   Payday loan41
+LA   Student loan85
+MA   Bank account or service1198
+MA   Consumer loan151
+MA   Credit card1131
+MA   Credit reporting603
+MA   Debt collection631
+MA   Money transfers50
+MA   Mortgage2432
+MA   Payday loan14
+MA   Student loan345
+MD   Bank account or service1219
+MD   Consumer loan349
+MD   Credit card1263
+MD   Credit reporting1066
+MD   Debt collection1096
+MD   Money transfers42
+MD   Mortgage4890
+MD   Payday loan32
+MD   Student loan301
+ME   Bank account or service148
+ME   Consumer loan41
+ME   Credit card214
+ME   Credit reporting92
+ME   Debt collection127
+ME   Money transfers1
+ME   Mortgage414
+ME   Payday loan6
+ME   Student loan46
+MH   Credit card3
+MH   Credit reporting3
+MH   Debt collection5
+MH   Mortgage6
+MI   Bank account or service958
+MI   Consumer loan272
+MI   Credit card880
+MI   Credit reporting898
+MI   Debt collection1047
+MI   Money transfers30
+MI   Mortgage4298
+MI   Payday loan44
+MI   Student loan311
+MN   Bank account or service489
+MN   Consumer loan95
+MN   Credit card535
+MN   Credit reporting327
+MN   Debt collection426
+MN   Money transfers20
+MN   Mortgage1596
+MN   Payday loan17
+MN   Student loan148
+MO   Bank account or service363
+MO   Consumer loan160
+MO   Credit card506
+MO   Credit reporting500
+MO   Debt collection741
+MO   Money transfers23
+MO   Mortgage1655
+MO   Payday loan34
+MO   Student loan170
+MP   Bank account or service4
+MP   Credit card3
+MP   Credit reporting4
+MP   Debt collection2
+MP   Mortgage1
+MP   Student loan1
+MS   Bank account or service131
+MS   Consumer loan70
+MS   Credit card175
+MS   Credit reporting217
+MS   Debt collection246
+MS   Money transfers4
+MS   Mortgage437
+MS   Payday loan14
+MS   Student loan32
+MT   Bank account or service47
+MT   Consumer loan13
+MT   Credit card81
+MT   Credit reporting78
+MT   Debt collection112
+MT   Money transfers1
+MT   Mortgage165
+MT   Payday loan2
+MT   Student loan25
+NC   Bank account or service1049
+NC   Consumer loan312
+NC   Credit card1127
+NC   Credit reporting1084
+NC   Debt collection1004
+NC   Money transfers41
+NC   Mortgage3757
+NC   Payday loan49
+NC   Student loan203
+ND   Bank account or service21
+ND   Consumer loan10
+ND   Credit card30
+ND   Credit reporting56
+ND   Debt collection51
+ND   Mortgage52
+ND   Student loan10
+NE   Bank account or service136
+NE   Consumer loan39
+NE   Credit card155
+NE   Credit reporting82
+NE   Debt collection167
+NE   Money transfers7
+NE   Mortgage325
+NE   Payday loan8
+NE   Student loan50
+NH   Bank account or service184
+NH   Consumer loan31
+NH   Credit card212
+NH   Credit reporting141
+NH   Debt collection152
+NH   Money transfers3
+NH   Mortgage1040
+NH   Payday loan9
+NH   Student loan74
+NJ   Bank account or service1928
+NJ   Consumer loan423
+NJ   Credit card1816
+NJ   Credit reporting1154
+NJ   Debt collection1547
+NJ   Money transfers52
+NJ   Mortgage5411
+NJ   Payday loan60
+NJ   Student loan417
+NM   Bank account or service180
+NM   Consumer loan45
+NM   Credit card196
+NM   Credit reporting269
+NM   Debt collection285
+NM   Money transfers9
+NM   Mortgage463
+NM   Payday loan16
+NM   Student loan40
+NV   Bank account or service420
+NV   Consumer loan84
+NV   Credit card447
+NV   Credit reporting496
+NV   Debt collection578
+NV   Money transfers19
+NV   Mortgage1338
+NV   Payday loan24
+NV   Student loan68
+NY   Bank account or service3370
+NY   Consumer loan554
+NY   Credit card3867
+NY   Credit reporting2682
+NY   Debt collection2634
+NY   Money transfers136
+NY   Mortgage7340
+NY   Payday loan48
+NY   Student loan888
+OH   Bank account or service1242
+OH   Consumer loan406
+OH   Credit card1503
+OH   Credit reporting975
+OH   Debt collection1515
+OH   Money transfers54
+OH   Mortgage3479
+OH   Payday loan75
+OH   Student loan432
+OK   Bank account or service179
+OK   Consumer loan84
+OK   Credit card273
+OK   Credit reporting299
+OK   Debt collection441
+OK   Money transfers16
+OK   Mortgage570
+OK   Payday loan19
+OK   Student loan62
+OR   Bank account or service431
+OR   Consumer loan86
+OR   Credit card466
+OR   Credit reporting461
+OR   Debt collection599
+OR   Money transfers14
+OR   Mortgage1489
+OR   Payday loan14
+OR   Student loan122
+PA   Bank account or service1686
+PA   Consumer loan375
+PA   Credit card1531
+PA   Credit reporting1424
+PA   Debt collection1589
+PA   Money transfers58
+PA   Mortgage3807
+PA   Payday loan67
+PA   Student loan588
+PR   Bank account or service90
+PR   Consumer loan21
+PR   Credit card157
+PR   Credit reporting168
+PR   Debt collection78
+PR   Money transfers1
+PR   Mortgage117
+PR   Payday loan1
+PR   Student loan11
+PW   Consumer loan1
+PW   Credit card1
+PW   Credit reporting1
+PW   Mortgage3
+RI   Bank account or service221
+RI   Consumer loan46
+RI   Credit card171
+RI   Credit reporting150
+RI   Debt collection159
+RI   Money transfers5
+RI   Mortgage346
+RI   Payday loan26
+RI   Student loan33
+SC   Bank account or service357
+SC   Consumer loan151
+SC   Credit card427
+SC   Credit reporting572
+SC   Debt collection683
+SC   Money transfers14
+SC   Mortgage1265
+SC   Payday loan26
+SC   Student loan100
+SD   Bank account or service42
+SD   Consumer loan14
+SD   Credit card91
+SD   Credit reporting45
+SD   Debt collection90
+SD   Money transfers2
+SD   Mortgage106
+SD   Payday loan3
+SD   Student loan17
+StateProduct1
+TN   Bank account or service539
+TN   Consumer loan187
+TN   Credit card607
+TN   Credit reporting574
+TN   Debt collection805
+TN   Money transfers14
+TN   Mortgage1515
+TN   Payday loan40
+TN   Student loan136
+TX   Bank account or service2091
+TX   Consumer loan739
+TX   Credit card2535
+TX   Credit reporting5552
+TX   Debt collection4261
+TX   Money transfers107
+TX   Mortgage5792
+TX   Payday loan179
+TX   Student loan455
+UT   Bank account or service137
+UT   Consumer loan33
+UT   Credit card224
+UT   Credit reporting210
+UT   Debt collection324
+UT   Money transfers7
+UT   Mortgage635
+UT   Payday loan8
+UT   Student loan40
+VA   Bank account or service1076
+VA   Consumer loan348
+VA   Credit card1435
+VA   Credit reporting1606
+VA   Debt collection1407
+VA   Money transfers52
+VA   Mortgage3857
+VA   Payday loan56
+VA   Student loan301
+VI   Bank account or service12
+VI   Credit card14
+VI   Credit reporting3
+VI   Debt collection7
+VI   Money transfers1
+VI   Mortgage20
+VT   Bank account or service76
+VT   Consumer loan24
+VT   Credit card81
+VT   Credit reporting57
+VT   Debt collection58
+VT   Money transfers4
+VT   Mortgage223
+VT   Payday loan1
+VT   Student loan35
+WA   Bank account or service683
+WA   Consumer loan140
+WA   Credit card819
+WA   Credit reporting733
+WA   Debt collection952
+WA   Money transfers33
+WA   Mortgage2892
+WA   Payday loan16
+WA   Student loan184
+WI   Bank account or service355
+WI   Consumer loan126
+WI   Credit card627
+WI   Credit reporting321
+WI   Debt collection546
+WI   Money transfers20
+WI   Mortgage1334
+WI   Payday loan31
+WI   Student loan131
+WV   Bank account or service85
+WV   Consumer loan37
+WV   Credit card122
+WV   Credit reporting119
+WV   Debt collection129
+WV   Money transfers4
+WV   Mortgage238
+WV   Student loan60
+WY   Bank account or service21
+WY   Consumer loan10
+WY   Credit card38
+WY   Credit reporting73
+WY   Debt collection64
+WY   Money transfers1
+WY   Mortgage107
+WY   Payday loan4
+WY   Student loan18
+     ,Bank account or service,718
+     ,Consumer loan,105
+     ,Credit card,553
+     ,Credit reporting,1055
+     ,Debt collection,627
+     ,Money transfers,60
+     ,Mortgage,1241
+     ,Payday loan,60
+     ,Student loan,106
+AA   ,Bank account or service,4
+AA   ,Credit card,1
+AA   ,Mortgage,3
+AA   ,Student loan,2
+AE   ,Bank account or service,13
+AE   ,Consumer loan,5
+AE   ,Credit card,11
+AE   ,Credit reporting,25
+AE   ,Debt collection,13
+AE   ,Money transfers,1
+AE   ,Mortgage,40
+AE   ,Student loan,6
+AK   ,Bank account or service,50
+AK   ,Consumer loan,10
+AK   ,Credit card,68
+AK   ,Credit reporting,69
+AK   ,Debt collection,70
+AK   ,Money transfers,4
+AK   ,Mortgage,100
+AK   ,Student loan,13
+AL   ,Bank account or service,368
+AL   ,Consumer loan,135
+AL   ,Credit card,342
+AL   ,Credit reporting,440
+AL   ,Debt collection,570
+AL   ,Money transfers,7
+AL   ,Mortgage,882
+AL   ,Payday loan,21
+AL   ,Student loan,82
+AP   ,Bank account or service,6
+AP   ,Consumer loan,3
+AP   ,Credit card,11
+AP   ,Credit reporting,14
+AP   ,Debt collection,18
+AP   ,Mortgage,24
+AP   ,Student loan,3
+AR   ,Bank account or service,161
+AR   ,Consumer loan,49
+AR   ,Credit card,193
+AR   ,Credit reporting,210
+AR   ,Debt collection,227
+AR   ,Money transfers,5
+AR   ,Mortgage,387
+AR   ,Payday loan,14
+AR   ,Student loan,52
+AS   ,Bank account or service,3
+AS   ,Credit card,2
+AS   ,Credit reporting,3
+AS   ,Mortgage,2
+AZ   ,Bank account or service,786
+AZ   ,Consumer loan,218
+AZ   ,Credit card,888
+AZ   ,Credit reporting,811
+AZ   ,Debt collection,1024
+AZ   ,Money transfers,35
+AZ   ,Mortgage,2997
+AZ   ,Payday loan,29
+AZ   ,Student loan,154
+CA   ,Bank account or service,5099
+CA   ,Consumer loan,1009
+CA   ,Credit card,5574
+CA   ,Credit reporting,5434
+CA   ,Debt collection,5940
+CA   ,Money transfers,233
+CA   ,Mortgage,22716
+CA   ,Payday loan,169
+CA   ,Student loan,902
+CO   ,Bank account or service,597
+CO   ,Consumer loan,146
+CO   ,Credit card,796
+CO   ,Credit reporting,712
+CO   ,Debt collection,747
+CO   ,Money transfers,19
+CO   ,Mortgage,2172
+CO   ,Payday loan,29
+CO   ,Student loan,163
+CT   ,Bank account or service,559
+CT   ,Consumer loan,136
+CT   ,Credit card,646
+CT   ,Credit reporting,390
+CT   ,Debt collection,417
+CT   ,Money transfers,17
+CT   ,Mortgage,1559
+CT   ,Payday loan,10
+CT   ,Student loan,155
+DC   ,Bank account or service,312
+DC   ,Consumer loan,51
+DC   ,Credit card,255
+DC   ,Credit reporting,254
+DC   ,Debt collection,226
+DC   ,Money transfers,15
+DC   ,Mortgage,559
+DC   ,Payday loan,12
+DC   ,Student loan,104
+DE   ,Bank account or service,252
+DE   ,Consumer loan,96
+DE   ,Credit card,282
+DE   ,Credit reporting,185
+DE   ,Debt collection,228
+DE   ,Money transfers,6
+DE   ,Mortgage,615
+DE   ,Payday loan,7
+DE   ,Student loan,38
+FL   ,Bank account or service,3528
+FL   ,Consumer loan,763
+FL   ,Credit card,3591
+FL   ,Credit reporting,3565
+FL   ,Debt collection,3914
+FL   ,Money transfers,119
+FL   ,Mortgage,14079
+FL   ,Payday loan,79
+FL   ,Student loan,526
+FM   ,Bank account or service,2
+FM   ,Credit card,2
+FM   ,Credit reporting,3
+FM   ,Debt collection,1
+FM   ,Mortgage,9
+GA   ,Bank account or service,1473
+GA   ,Consumer loan,421
+GA   ,Credit card,1251
+GA   ,Credit reporting,1558
+GA   ,Debt collection,1814
+GA   ,Money transfers,57
+GA   ,Mortgage,6579
+GA   ,Payday loan,51
+GA   ,Student loan,310
+GU   ,Bank account or service,7
+GU   ,Consumer loan,2
+GU   ,Credit card,5
+GU   ,Credit reporting,3
+GU   ,Debt collection,6
+GU   ,Money transfers,1
+GU   ,Mortgage,10
+GU   ,Student loan,1
+HI   ,Bank account or service,91
+HI   ,Consumer loan,32
+HI   ,Credit card,166
+HI   ,Credit reporting,155
+HI   ,Debt collection,185
+HI   ,Money transfers,5
+HI   ,Mortgage,488
+HI   ,Payday loan,2
+HI   ,Student loan,22
+IA   ,Bank account or service,132
+IA   ,Consumer loan,45
+IA   ,Credit card,236
+IA   ,Credit reporting,166
+IA   ,Debt collection,248
+IA   ,Money transfers,5
+IA   ,Mortgage,342
+IA   ,Payday loan,12
+IA   ,Student loan,69
+ID   ,Bank account or service,104
+ID   ,Consumer loan,27
+ID   ,Credit card,156
+ID   ,Credit reporting,127
+ID   ,Debt collection,185
+ID   ,Money transfers,6
+ID   ,Mortgage,370
+ID   ,Payday loan,12
+ID   ,Student loan,33
+IL   ,Bank account or service,1550
+IL   ,Consumer loan,302
+IL   ,Credit card,1501
+IL   ,Credit reporting,1385
+IL   ,Debt collection,1484
+IL   ,Money transfers,62
+IL   ,Mortgage,4027
+IL   ,Payday loan,44
+IL   ,Student loan,440
+IN   ,Bank account or service,378
+IN   ,Consumer loan,96
+IN   ,Credit card,454
+IN   ,Credit reporting,542
+IN   ,Debt collection,603
+IN   ,Money transfers,12
+IN   ,Mortgage,1094
+IN   ,Payday loan,24
+IN   ,Student loan,176
+KS   ,Bank account or service,146
+KS   ,Consumer loan,60
+KS   ,Credit card,247
+KS   ,Credit reporting,198
+KS   ,Debt collection,296
+KS   ,Money transfers,7
+KS   ,Mortgage,441
+KS   ,Payday loan,9
+KS   ,Student loan,54
+KY   ,Bank account or service,261
+KY   ,Consumer loan,90
+KY   ,Credit card,276
+KY   ,Credit reporting,318
+KY   ,Debt collection,420
+KY   ,Money transfers,4
+KY   ,Mortgage,691
+KY   ,Payday loan,11
+KY   ,Student loan,82
+LA   ,Bank account or service,305
+LA   ,Consumer loan,109
+LA   ,Credit card,293
+LA   ,Credit reporting,497
+LA   ,Debt collection,551
+LA   ,Money transfers,15
+LA   ,Mortgage,910
+LA   ,Payday loan,41
+LA   ,Student loan,85
+MA   ,Bank account or service,1198
+MA   ,Consumer loan,151
+MA   ,Credit card,1131
+MA   ,Credit reporting,603
+MA   ,Debt collection,631
+MA   ,Money transfers,50
+MA   ,Mortgage,2432
+MA   ,Payday loan,14
+MA   ,Student loan,345
+MD   ,Bank account or service,1219
+MD   ,Consumer loan,349
+MD   ,Credit card,1263
+MD   ,Credit reporting,1066
+MD   ,Debt collection,1096
+MD   ,Money transfers,42
+MD   ,Mortgage,4890
+MD   ,Payday loan,32
+MD   ,Student loan,301
+ME   ,Bank account or service,148
+ME   ,Consumer loan,41
+ME   ,Credit card,214
+ME   ,Credit reporting,92
+ME   ,Debt collection,127
+ME   ,Money transfers,1
+ME   ,Mortgage,414
+ME   ,Payday loan,6
+ME   ,Student loan,46
+MH   ,Credit card,3
+MH   ,Credit reporting,3
+MH   ,Debt collection,5
+MH   ,Mortgage,6
+MI   ,Bank account or service,958
+MI   ,Consumer loan,272
+MI   ,Credit card,880
+MI   ,Credit reporting,898
+MI   ,Debt collection,1047
+MI   ,Money transfers,30
+MI   ,Mortgage,4298
+MI   ,Payday loan,44
+MI   ,Student loan,311
+MN   ,Bank account or service,489
+MN   ,Consumer loan,95
+MN   ,Credit card,535
+MN   ,Credit reporting,327
+MN   ,Debt collection,426
+MN   ,Money transfers,20
+MN   ,Mortgage,1596
+MN   ,Payday loan,17
+MN   ,Student loan,148
+MO   ,Bank account or service,363
+MO   ,Consumer loan,160
+MO   ,Credit card,506
+MO   ,Credit reporting,500
+MO   ,Debt collection,741
+MO   ,Money transfers,23
+MO   ,Mortgage,1655
+MO   ,Payday loan,34
+MO   ,Student loan,170
+MP   ,Bank account or service,4
+MP   ,Credit card,3
+MP   ,Credit reporting,4
+MP   ,Debt collection,2
+MP   ,Mortgage,1
+MP   ,Student loan,1
+MS   ,Bank account or service,131
+MS   ,Consumer loan,70
+MS   ,Credit card,175
+MS   ,Credit reporting,217
+MS   ,Debt collection,246
+MS   ,Money transfers,4
+MS   ,Mortgage,437
+MS   ,Payday loan,14
+MS   ,Student loan,32
+MT   ,Bank account or service,47
+MT   ,Consumer loan,13
+MT   ,Credit card,81
+MT   ,Credit reporting,78
+MT   ,Debt collection,112
+MT   ,Money transfers,1
+MT   ,Mortgage,165
+MT   ,Payday loan,2
+MT   ,Student loan,25
+NC   ,Bank account or service,1049
+NC   ,Consumer loan,312
+NC   ,Credit card,1127
+NC   ,Credit reporting,1084
+NC   ,Debt collection,1004
+NC   ,Money transfers,41
+NC   ,Mortgage,3757
+NC   ,Payday loan,49
+NC   ,Student loan,203
+ND   ,Bank account or service,21
+ND   ,Consumer loan,10
+ND   ,Credit card,30
+ND   ,Credit reporting,56
+ND   ,Debt collection,51
+ND   ,Mortgage,52
+ND   ,Student loan,10
+NE   ,Bank account or service,136
+NE   ,Consumer loan,39
+NE   ,Credit card,155
+NE   ,Credit reporting,82
+NE   ,Debt collection,167
+NE   ,Money transfers,7
+NE   ,Mortgage,325
+NE   ,Payday loan,8
+NE   ,Student loan,50
+NH   ,Bank account or service,184
+NH   ,Consumer loan,31
+NH   ,Credit card,212
+NH   ,Credit reporting,141
+NH   ,Debt collection,152
+NH   ,Money transfers,3
+NH   ,Mortgage,1040
+NH   ,Payday loan,9
+NH   ,Student loan,74
+NJ   ,Bank account or service,1928
+NJ   ,Consumer loan,423
+NJ   ,Credit card,1816
+NJ   ,Credit reporting,1154
+NJ   ,Debt collection,1547
+NJ   ,Money transfers,52
+NJ   ,Mortgage,5411
+NJ   ,Payday loan,60
+NJ   ,Student loan,417
+NM   ,Bank account or service,180
+NM   ,Consumer loan,45
+NM   ,Credit card,196
+NM   ,Credit reporting,269
+NM   ,Debt collection,285
+NM   ,Money transfers,9
+NM   ,Mortgage,463
+NM   ,Payday loan,16
+NM   ,Student loan,40
+NV   ,Bank account or service,420
+NV   ,Consumer loan,84
+NV   ,Credit card,447
+NV   ,Credit reporting,496
+NV   ,Debt collection,578
+NV   ,Money transfers,19
+NV   ,Mortgage,1338
+NV   ,Payday loan,24
+NV   ,Student loan,68
+NY   ,Bank account or service,3370
+NY   ,Consumer loan,554
+NY   ,Credit card,3867
+NY   ,Credit reporting,2682
+NY   ,Debt collection,2634
+NY   ,Money transfers,136
+NY   ,Mortgage,7340
+NY   ,Payday loan,48
+NY   ,Student loan,888
+OH   ,Bank account or service,1242
+OH   ,Consumer loan,406
+OH   ,Credit card,1503
+OH   ,Credit reporting,975
+OH   ,Debt collection,1515
+OH   ,Money transfers,54
+OH   ,Mortgage,3479
+OH   ,Payday loan,75
+OH   ,Student loan,432
+OK   ,Bank account or service,179
+OK   ,Consumer loan,84
+OK   ,Credit card,273
+OK   ,Credit reporting,299
+OK   ,Debt collection,441
+OK   ,Money transfers,16
+OK   ,Mortgage,570
+OK   ,Payday loan,19
+OK   ,Student loan,62
+OR   ,Bank account or service,431
+OR   ,Consumer loan,86
+OR   ,Credit card,466
+OR   ,Credit reporting,461
+OR   ,Debt collection,599
+OR   ,Money transfers,14
+OR   ,Mortgage,1489
+OR   ,Payday loan,14
+OR   ,Student loan,122
+PA   ,Bank account or service,1686
+PA   ,Consumer loan,375
+PA   ,Credit card,1531
+PA   ,Credit reporting,1424
+PA   ,Debt collection,1589
+PA   ,Money transfers,58
+PA   ,Mortgage,3807
+PA   ,Payday loan,67
+PA   ,Student loan,588
+PR   ,Bank account or service,90
+PR   ,Consumer loan,21
+PR   ,Credit card,157
+PR   ,Credit reporting,168
+PR   ,Debt collection,78
+PR   ,Money transfers,1
+PR   ,Mortgage,117
+PR   ,Payday loan,1
+PR   ,Student loan,11
+PW   ,Consumer loan,1
+PW   ,Credit card,1
+PW   ,Credit reporting,1
+PW   ,Mortgage,3
+RI   ,Bank account or service,221
+RI   ,Consumer loan,46
+RI   ,Credit card,171
+RI   ,Credit reporting,150
+RI   ,Debt collection,159
+RI   ,Money transfers,5
+RI   ,Mortgage,346
+RI   ,Payday loan,26
+RI   ,Student loan,33
+SC   ,Bank account or service,357
+SC   ,Consumer loan,151
+SC   ,Credit card,427
+SC   ,Credit reporting,572
+SC   ,Debt collection,683
+SC   ,Money transfers,14
+SC   ,Mortgage,1265
+SC   ,Payday loan,26
+SC   ,Student loan,100
+SD   ,Bank account or service,42
+SD   ,Consumer loan,14
+SD   ,Credit card,91
+SD   ,Credit reporting,45
+SD   ,Debt collection,90
+SD   ,Money transfers,2
+SD   ,Mortgage,106
+SD   ,Payday loan,3
+SD   ,Student loan,17
+State,Product,1
+TN   ,Bank account or service,539
+TN   ,Consumer loan,187
+TN   ,Credit card,607
+TN   ,Credit reporting,574
+TN   ,Debt collection,805
+TN   ,Money transfers,14
+TN   ,Mortgage,1515
+TN   ,Payday loan,40
+TN   ,Student loan,136
+TX   ,Bank account or service,2091
+TX   ,Consumer loan,739
+TX   ,Credit card,2535
+TX   ,Credit reporting,5552
+TX   ,Debt collection,4261
+TX   ,Money transfers,107
+TX   ,Mortgage,5792
+TX   ,Payday loan,179
+TX   ,Student loan,455
+UT   ,Bank account or service,137
+UT   ,Consumer loan,33
+UT   ,Credit card,224
+UT   ,Credit reporting,210
+UT   ,Debt collection,324
+UT   ,Money transfers,7
+UT   ,Mortgage,635
+UT   ,Payday loan,8
+UT   ,Student loan,40
+VA   ,Bank account or service,1076
+VA   ,Consumer loan,348
+VA   ,Credit card,1435
+VA   ,Credit reporting,1606
+VA   ,Debt collection,1407
+VA   ,Money transfers,52
+VA   ,Mortgage,3857
+VA   ,Payday loan,56
+VA   ,Student loan,301
+VI   ,Bank account or service,12
+VI   ,Credit card,14
+VI   ,Credit reporting,3
+VI   ,Debt collection,7
+VI   ,Money transfers,1
+VI   ,Mortgage,20
+VT   ,Bank account or service,76
+VT   ,Consumer loan,24
+VT   ,Credit card,81
+VT   ,Credit reporting,57
+VT   ,Debt collection,58
+VT   ,Money transfers,4
+VT   ,Mortgage,223
+VT   ,Payday loan,1
+VT   ,Student loan,35
+WA   ,Bank account or service,683
+WA   ,Consumer loan,140
+WA   ,Credit card,819
+WA   ,Credit reporting,733
+WA   ,Debt collection,952
+WA   ,Money transfers,33
+WA   ,Mortgage,2892
+WA   ,Payday loan,16
+WA   ,Student loan,184
+WI   ,Bank account or service,355
+WI   ,Consumer loan,126
+WI   ,Credit card,627
+WI   ,Credit reporting,321
+WI   ,Debt collection,546
+WI   ,Money transfers,20
+WI   ,Mortgage,1334
+WI   ,Payday loan,31
+WI   ,Student loan,131
+WV   ,Bank account or service,85
+WV   ,Consumer loan,37
+WV   ,Credit card,122
+WV   ,Credit reporting,119
+WV   ,Debt collection,129
+WV   ,Money transfers,4
+WV   ,Mortgage,238
+WV   ,Student loan,60
+WY   ,Bank account or service,21
+WY   ,Consumer loan,10
+WY   ,Credit card,38
+WY   ,Credit reporting,73
+WY   ,Debt collection,64
+WY   ,Money transfers,1
+WY   ,Mortgage,107
+WY   ,Payday loan,4
+WY   ,Student loan,18
