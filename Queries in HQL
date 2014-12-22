@@ -1,0 +1,81 @@
+QUERIES FOR EXPERIMENTAL RESULTS IN HIVE QUERY-LANGUAGE
+
+1.	Query:
+create table geomap row format delimited fields terminated by ',' as    
+select c.state, count(*)
+from complaints c
+group by c.state
+having c.state != ‘’;
+
+2.	Query:
+create table credit_card_defaulters row format delimited fields terminated by ',' as
+select c2.company, count(*) as count
+from (
+select c.product, c.company 
+from complaints c 
+where c.product='Credit card'
+)c2
+group by c2.company
+order by count desc
+limit 5;
+
+3.	Query:
+create table cc_defaulters_NY row format delimited fields terminated by ',' as 
+select c2.company, count(*) as count 
+from (
+select c.product, c.company 
+from complaints c where c.product='Credit card' and c.state=‘NY’
+)c2 
+group by c2.company;
+
+4.	Query:
+create table relief_status row format delimited fields terminated by ',' as
+select c2.consumer_disputed, count(*) as count
+from (
+select c.company_resolution, c.timely_response, c.consumer_disputed
+from complaints c
+where c.company_resolution rlike ‘Closed’ and c.timely_response=‘Yes’
+)c2
+group by c2.consumer_disputed;
+
+5.	Query:
+create table top_responder row format delimited fields terminated by ',' as
+select a.state, b.company, a.maxcount 
+from (
+(select c.state as state, max(c.count) as maxcount                                    
+from (
+select c1.state as state, c1.company as company, c1.timely_response as response, count(*) as count                            
+from complaints c1                                                         
+group by c1.state, c1.company, c1.timely_response                                              
+having c1.state != '' and c1.timely_response='Yes'
+) c                                 
+group by c.state
+) a
+join (
+select c1.state as state, c1.company as company, c1.timely_response as response, count(*) as count                            
+from complaints c1                                                         
+	group by c1.state, c1.company, c1.timely_response                                              
+having c1.state != '' and c1.timely_response='Yes'
+) b
+on a.state=b.state and a.maxcount=b.count;
+
+6.	Query:
+create table PercDisputed row format delimited fields terminated by ',' as
+select a.company, (b.numer/a.denom)*100 as PercDisputed
+from (
+(select c.company, count(*) as denom
+from cdata c
+where c.company_resolution rlike 'Closed'
+group by c.company
+having denom>=10
+) a
+join (
+select c2.company, count(*) as numer
+from cdata c2
+where c2.consumer_disputed='Yes'
+group by c2.company
+) b
+on a.company=b.company
+)
+order by PercDisputed desc
+limit 5;
