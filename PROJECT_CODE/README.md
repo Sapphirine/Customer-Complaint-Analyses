@@ -33,5 +33,9 @@ blitzavi89@blitzavi89-Lenovo-Ideapad-Flex-14:~/BigData_Project/PROJECT-FILES$ hd
 Found 1 items
 -rw-r--r--   1 blitzavi89 supergroup     803959 2014-12-10 01:51 data/classification/NY/chunk-0
 
+##################
 
+Also, please visit site http://avinsrid.github.io/Customer-Complaint-Analyses/ for more details!
+
+Thank you, please don't hesitate to contact Avinash Sridhar, Abhaar Gupta, Nachiket Rau, Sankalp Singayapally for any queries.
  
