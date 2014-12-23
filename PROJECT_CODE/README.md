@@ -1,6 +1,6 @@
 ###################################################################
 CONTENTS OF target/*.jar
-###################################################################
+===================================================================
 com/
 com/bigdata/
 com/bigdata/complaintanalysis/
@@ -12,7 +12,7 @@ com/bigdata/complaintanalysis/StatewiseSorter.class
 
 ###################################################################
 COMPILATION INSTRUCTIONS
-###################################################################
+===================================================================
 
 1) Clone the directory and navigate to PROJECT_CODE.
 2) Install maven if you don't have it.
