@@ -1,5 +1,11 @@
-big_data_analytics
+big_data_analytics [ Customer Complaint Analyses ]
 ==================
+
+##################################################
+AUTHORS
+===================================================
+@as4626, @abhaar, @nachirau, @ss91
+#######################################3
 
 Big Data Analytics - Final Project Repo
 =======================================
